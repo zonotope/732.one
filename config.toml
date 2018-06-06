@@ -1,0 +1,22 @@
+baseURL = "https://732.one/"
+title = "the vacillater"
+copyright = "&copy; ben lamothe, 2018"
+
+languageCode = "en-us"
+theme = "kiss"
+Paginate = 5
+
+disqusShortname = "vacillater"
+enableRobotsTXT = true
+googleAnalytics = "UA-120461244-1"
+
+[params.info]
+homeTitle = "the vacillater"
+adsense = "8748429917688482"
+enableSocial = true
+related = true
+poweredBy = false
+
+[params.social]
+twitter = "seventhreetwo"
+github = "zonotope"
